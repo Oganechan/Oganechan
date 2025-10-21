@@ -20,4 +20,4 @@
 
 **Vladivostok, Russia** (GMT +10:00)
 
-⭐️ From [Oganelyan](https://github.com/Oganelyan)
+⭐️ From [Oganechan](https://github.com/Oganechan)
