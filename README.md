@@ -39,18 +39,11 @@
 
 </div>
 
-## 📍 Location & Time
+##
 
 <div align="center">
 
 **Vladivostok, Russia • GMT+10**  
-![Visitor Count](https://komarev.com/ghpvc/?username=Oganechan&color=blueviolet&style=flat-square)
-
-</div>
-
----
-
-<div align="center">
 
 ⭐️ From [Oganechan](https://github.com/Oganechan)
 
